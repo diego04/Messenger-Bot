@@ -10,10 +10,12 @@
     "body-parser": "^1.15.0",
     "ejs": "2.3.3",
     "express": "4.13.3",
+    "node-uuid": "^1.4.7",
+    "node-wit": "^3.2.2",
     "request": "^2.71.0"
   },
   "engines": {
-    "node": "0.12.7"
+    "node": "6.0.0"
   },
   "repository": {
     "type": "git",
